@@ -1,0 +1,6 @@
+{
+  "name": "Timenemy",
+  "description": "A premium cinematic quantum time travel simulation control center inspired by futuristic holograms, space, and quantum mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
